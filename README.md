@@ -21,3 +21,13 @@ const store = createStore(
 ```
 
 and that's it, now you have kittens on the console.
+
+
+### kitten example
+
+```
+Previous cat {counterReducer: 1}
+Instructions {type: "INCREMENT"}
+Next cat {counterReducer: 2}
+/ᐠ｡ꞈ｡ᐟ\
+```
