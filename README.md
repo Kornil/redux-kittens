@@ -1,5 +1,5 @@
 # redux-kittens
-Testing redux middlewares with kittens asddsadsadsadsa
+Testing redux middlewares with kittens
 
 ## Install
 
