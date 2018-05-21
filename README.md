@@ -1,6 +1,5 @@
 # redux-kittens
-Testing redux middlewares with kittens
-
+Testing redux middlewares with kittens addsadsadsa
 ## Install
 
 `npm i https://github.com/Kornil/redux-kittens.git`
